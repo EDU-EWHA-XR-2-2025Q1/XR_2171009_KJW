@@ -63,6 +63,7 @@
     <Compile Include="Assets\HW03_2171009_KJW\RideController.cs" />
     <Compile Include="Assets\HW03_2171009_KJW\OpenDoor.cs" />
     <Compile Include="Assets\HW03_2171009_KJW\VehicleAnimatorController.cs" />
+    <Compile Include="Assets\HW03_2171009_KJW\OpenDoor1.cs" />
     <Compile Include="Assets\HW03_2171009_KJW\OnFloor.cs" />
   </ItemGroup>
   <ItemGroup>
