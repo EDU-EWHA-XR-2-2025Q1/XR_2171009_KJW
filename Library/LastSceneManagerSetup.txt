@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/HW03_2171009_KJW/HW03_Animation_Start.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
