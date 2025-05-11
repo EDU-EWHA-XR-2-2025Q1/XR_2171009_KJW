@@ -7,7 +7,7 @@ public class HeartSpawnrOnTarget : MonoBehaviour
     public GameObject heartPrefab;
     public Transform parentTransform;
     public Vector3 basePosition = new Vector3(0, 0.05f, 0);
-    public float spacing = 0.05f;
+    public float spacing = 0.0025f;
 
     void Start()
     {
